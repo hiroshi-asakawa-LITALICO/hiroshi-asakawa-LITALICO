@@ -1,5 +1,5 @@
 ---
-name: 日本語名テンプレート
+name: nihongohadame
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
